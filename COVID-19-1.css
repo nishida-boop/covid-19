@@ -1,0 +1,30 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+img{
+  height: 1000px;
+  width: 500px;
+  float: right;
+}
+.mainsecond{
+  height: 1260px;
+  width: 100wh;
+  background-color: #eee	;
+}
+.mainthird{
+  height: 1290px;
+  width: 100wh;
+  background-color:#eee;
+}
+.footer{
+  font-size: 30px;
+  font-weight: bold; 
+  text-shadow: 0 0 0.2em rgba(0,0,0,1);
+  text-decoration: none;
+  background-color: #eee;
+}
+a {
+  text-decoration: none;
+  color:#996666	;
+}
